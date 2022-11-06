@@ -2,4 +2,4 @@
 membuat gambar layout dengan menggunakan Twitter Bootstrap.
 ini adalah tampilannya
 
-[gambar](gambar/ss1.png)
+![gambar 1](gambar/ss1.png)
